@@ -1,17 +1,14 @@
 ﻿{
-  // manifest 
   "description": {
     "message": "Follow updates of online manga readers. Beautify reading, with full chapters scans.",
     "description": "Description of the extension."
   },
   
-  // General
   "licence": {
     "message": "All Mangas Reader is under the licence of GLPv3",
     "description": "This is the licencing info"
   },
   
-  // Background
   "background_bookmark_menu": {
     "message": "Bookmark in AMR",
     "description": "context menu on a scan to bookmark it"
@@ -96,7 +93,6 @@
   },
   
   
-  // options
   "options_title": {
     "message": "All Mangas Reader Options",
     "description": "Title of the options page"
@@ -463,9 +459,6 @@
     "message": "This implementation is a temporary one imported directly from AMR Community. Click here to get the latest release for this website and come back in release process.",
     "description": "temporary implementation message for developers"
   },
-  
-  
-  // common messages
   "common_support": {
     "message": "Support All Mangas Reader:",
     "description": "Support message title"
@@ -560,5 +553,4 @@
     "message": "mail me",
     "description": "Expression to say 'send me a mail'"
   }
-  
 }
